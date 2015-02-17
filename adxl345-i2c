@@ -1,0 +1,2 @@
+i2c bus: i2c-0 
+adxl345 addr: 0x1d
